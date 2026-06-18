@@ -1,0 +1,3 @@
+Jun 18 10:15:22 server sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 54522 ssh2
+Jun 18 10:16:03 server sshd[1235]: Accepted password for student from 192.168.1.20 port 54523 ssh2
+Jun 18 10:17:44 server sshd[1236]: Failed password for root from 192.168.1.80 port 54524 ssh2
